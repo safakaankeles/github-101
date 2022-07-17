@@ -1,3 +1,4 @@
 ikinci dosyanın ilk satırı
 ikinci satırı
 üçüncü satır
+dörtdüncü satır eklendi
